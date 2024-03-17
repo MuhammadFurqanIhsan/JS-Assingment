@@ -1,0 +1,17 @@
+
+
+#header {
+    background-color: #1d3557;
+    color: white;
+}
+body {
+    background-color: rgb(207, 245, 207);
+}
+
+#footer {
+    background-color: #1d3557;
+}
+
+main div>button {
+    margin: 4px;
+}
